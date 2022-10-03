@@ -46,6 +46,6 @@ My Bot is open source and free to use. If you found any of my repos useful and w
 
 ### 🔗 https://discord.gg/MSQeXpvJSV
 
-[![YouTube Link](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCWO8iq7u0aCaakA80I46MNg)
+[![YouTube Link](https://img.shields.io/badge/Youtube-ff0004?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCWO8iq7u0aCaakA80I46MNg)
 [![Twitter Link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Qod_yt)
 [![Insta Link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sad_vibe_z)
