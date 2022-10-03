@@ -37,7 +37,9 @@ npm run start
 ```
 
 ## Author
-[Qod](https://github.com/QodGH) (credits:max)
+[Qod](https://github.com/QodGH)
+## Credits
+[max](https://github.com/gokiimax)
 
 ## ☕️ Support & Socials
 My Bot is open source and free to use. If you found any of my repos useful and would like to support my projects, feel free to join my Server.
